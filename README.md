@@ -2,7 +2,7 @@
 Apaixonado por tecnologia.
 <br>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com.br)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com.br/in/mateusmattoss)
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMMattos&show_icons=true&theme=radical)
 
