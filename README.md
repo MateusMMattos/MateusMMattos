@@ -29,10 +29,8 @@
 ![ADVPL](https://img.shields.io/badge/-ADVPL-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjU2IDhDMTE5IDggOCAxMTkgOCAyNTZzMTExIDI0OCAyNDggMjQ4IDI0OC0xMTEgMjQ4LTI0OFMzOTMgOCAyNTYgOHptLTM5LjYgMzg0LjVIMTM3LjZWMjA4LjhIMjE2djE4My43aC0uNnptMzkuNiAwSDI5NlYyMDguOGg3OC40djE4My43eiIvPjwvc3ZnPg==&labelColor=0D1117)&nbsp;
 ![TL++](https://img.shields.io/badge/-TL%2B%2B-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjU2IDhDMTE5IDggOCAxMTkgOCAyNTZzMTExIDI0OCAyNDggMjQ4IDI0OC0xMTEgMjQ4LTI0OFMzOTMgOCAyNTYgOHptLTM5LjYgMzg0LjVIMTM3LjZWMjA4LjhIMjE2djE4My43aC0uNnptMzkuNiAwSDI5NlYyMDguOGg3OC40djE4My43eiIvPjwvc3ZnPg==&labelColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MateusMMattos}/count.svg" /></p> 
-<br>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MateusMMattos&label=Profile%20views&color=87CEEB&style=flat" alt="MateusMMattos" /> 
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
